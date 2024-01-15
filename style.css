@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Sofia);
 
-body { font: 12pt Arial; }
-h1, h2, h3 { font-family: 'Pacifico', cursive; font-weight: normal;}
-button { font-size: 12pt; padding: 30px; }
+body {font: 12pt Arial;}
+h1, h2, h3 { font-family: 'Sofia', sans-serif; font-weight: normal; text-shadow: 3px 3px 3px #ababab;}
+button { font-size: 30pt; padding: 30px;}
